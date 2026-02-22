@@ -87,7 +87,7 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/GoodBoyboy666/perfect-pic-server',
           label: 'GitHub',
@@ -103,7 +103,7 @@ const config: Config = {
           items: [
             {
               label: 'Start',
-              to: '/docs/intro',
+              to: '/docs/category/快速开始',
             },
           ],
         },
