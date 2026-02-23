@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/快速开始">
-            Start Now
+            快速开始
           </Link>
         </div>
       </div>
