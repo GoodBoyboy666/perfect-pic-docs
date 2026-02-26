@@ -57,10 +57,11 @@ redis:
 
 ### Server 配置
 
-| 配置        | 默认值 | 描述         | 可选值         |
-| ----------- | ------ | ------------ | -------------- |
-| server.port | 8080   | 服务启动端口 | 1-65535        |
-| server.mode | debug  | 服务模式     | debug, release |
+| 配置                   | 默认值 | 描述         | 可选值         |
+| ---------------------- | ------ | ------------ | -------------- |
+| server.port            | 8080   | 服务启动端口 | 1-65535        |
+| server.mode            | debug  | 服务模式     | debug, release |
+| server.trusted_proxies | 空     | 可信代理配置 | -              |
 
 ### Database 配置
 
