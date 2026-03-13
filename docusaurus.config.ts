@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'GoodBoyboy666', // Usually your GitHub org/user name.
-  projectName: 'perfect-pic-server', // Usually your repo name.
+  projectName: 'perfect-pic', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -89,7 +89,7 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/GoodBoyboy666/perfect-pic-server',
+          href: 'https://github.com/GoodBoyboy666/perfect-pic',
           label: 'GitHub',
           position: 'right',
         },
@@ -112,7 +112,7 @@ const config: Config = {
           items: [
             {
               label: 'Discussions',
-              href: 'https://github.com/GoodBoyboy666/perfect-pic-server/discussions',
+              href: 'https://github.com/GoodBoyboy666/perfect-pic/discussions',
             }
           ],
         },
@@ -125,7 +125,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/GoodBoyboy666/perfect-pic-server',
+              href: 'https://github.com/GoodBoyboy666/perfect-pic',
             },
           ],
         },
